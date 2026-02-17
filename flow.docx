@@ -1,0 +1,45 @@
+laflora/
+├── index.php
+├── contact.php
+├── shop.php
+├── product-detail.php
+├── cart.php
+├── checkout.php
+├── order-confirmation.php    ← PUT HERE (Root directory)
+├── auth.php
+├── logout.php
+├── .htaccess
+├── assets/
+│   ├── css/
+│   │   ├── style.css
+│   │   └── admin.css
+│   ├── js/
+│   │   ├── script.js
+│   │   ├── cart.js
+│   │   └── admin.js
+│   └── images/
+│       ├── products/
+│       ├── banners/
+│       └── logos/
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+│   ├── auth_functions.php
+│   ├── db_connect.php
+│   ├── config.php
+│   └── cart_functions.php
+├── user/
+│   ├── login.php
+│   ├── signup.php
+│   ├── forgot-password.php
+│   ├── dashboard.php
+│   └── profile.php
+└── admin/
+    ├── index.php
+    ├── login.php
+    ├── dashboard.php
+    ├── products.php
+    ├── categories.php
+    ├── orders.php
+    ├── users.php
+    └── logout.php
